@@ -12,10 +12,10 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build --max_old_space_size=10240",
+    "deploy": "gh-pages -d build --max_old_space_size=10240",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build --max_old_space_size=10240",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
