@@ -1,3 +1,5 @@
+This is a Pi Calculator using the Monte Carlo Method. In order to look at this app simply visit: https://boolyy.github.io/Pi-Calculator-Deploy/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
