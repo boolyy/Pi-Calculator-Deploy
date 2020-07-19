@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Pi-Calculator/static/css/main.4303cfff.chunk.css",
-    "main.js": "/Pi-Calculator/static/js/main.432c8a0c.chunk.js",
-    "main.js.map": "/Pi-Calculator/static/js/main.432c8a0c.chunk.js.map",
-    "runtime-main.js": "/Pi-Calculator/static/js/runtime-main.f5a40358.js",
-    "runtime-main.js.map": "/Pi-Calculator/static/js/runtime-main.f5a40358.js.map",
-    "static/js/2.5d32d8b9.chunk.js": "/Pi-Calculator/static/js/2.5d32d8b9.chunk.js",
-    "static/js/2.5d32d8b9.chunk.js.map": "/Pi-Calculator/static/js/2.5d32d8b9.chunk.js.map",
-    "index.html": "/Pi-Calculator/index.html",
-    "precache-manifest.91c6c6d9e82787bba299096006a85c7d.js": "/Pi-Calculator/precache-manifest.91c6c6d9e82787bba299096006a85c7d.js",
-    "service-worker.js": "/Pi-Calculator/service-worker.js",
-    "static/css/main.4303cfff.chunk.css.map": "/Pi-Calculator/static/css/main.4303cfff.chunk.css.map",
-    "static/js/2.5d32d8b9.chunk.js.LICENSE.txt": "/Pi-Calculator/static/js/2.5d32d8b9.chunk.js.LICENSE.txt"
+    "main.css": "/Pi-Calculator-Deploy/static/css/main.4303cfff.chunk.css",
+    "main.js": "/Pi-Calculator-Deploy/static/js/main.ce00fbcd.chunk.js",
+    "main.js.map": "/Pi-Calculator-Deploy/static/js/main.ce00fbcd.chunk.js.map",
+    "runtime-main.js": "/Pi-Calculator-Deploy/static/js/runtime-main.77432393.js",
+    "runtime-main.js.map": "/Pi-Calculator-Deploy/static/js/runtime-main.77432393.js.map",
+    "static/js/2.5d32d8b9.chunk.js": "/Pi-Calculator-Deploy/static/js/2.5d32d8b9.chunk.js",
+    "static/js/2.5d32d8b9.chunk.js.map": "/Pi-Calculator-Deploy/static/js/2.5d32d8b9.chunk.js.map",
+    "index.html": "/Pi-Calculator-Deploy/index.html",
+    "precache-manifest.edfde5d6765f4b7f612ea2d8d6e96d3a.js": "/Pi-Calculator-Deploy/precache-manifest.edfde5d6765f4b7f612ea2d8d6e96d3a.js",
+    "service-worker.js": "/Pi-Calculator-Deploy/service-worker.js",
+    "static/css/main.4303cfff.chunk.css.map": "/Pi-Calculator-Deploy/static/css/main.4303cfff.chunk.css.map",
+    "static/js/2.5d32d8b9.chunk.js.LICENSE.txt": "/Pi-Calculator-Deploy/static/js/2.5d32d8b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5a40358.js",
+    "static/js/runtime-main.77432393.js",
     "static/js/2.5d32d8b9.chunk.js",
     "static/css/main.4303cfff.chunk.css",
-    "static/js/main.432c8a0c.chunk.js"
+    "static/js/main.ce00fbcd.chunk.js"
   ]
 }
