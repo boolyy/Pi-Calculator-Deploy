@@ -6,7 +6,7 @@ export default function Value(props) {
       return (
         <h2>
           Current Value of Pi:{" "}
-          {(4 * (props.inCirclePoints / props.inSquarePoints)).toPrecision(7)}
+          {4 * (props.inCirclePoints / props.inSquarePoints).toPrecision(20)}
         </h2>
       );
     } else {
